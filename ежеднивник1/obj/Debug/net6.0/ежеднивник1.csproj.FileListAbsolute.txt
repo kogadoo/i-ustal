@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\obj\Debug\net6.0\ежеднивник1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\obj\Debug\net6.0\ежеднивник1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\obj\Debug\net6.0\ежеднивник1.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\obj\Debug\net6.0\ежеднивник1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\bin\Debug\net6.0\ежеднивник1.exe
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\bin\Debug\net6.0\ежеднивник1.deps.json
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\bin\Debug\net6.0\ежеднивник1.runtimeconfig.json
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\bin\Debug\net6.0\ежеднивник1.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\bin\Debug\net6.0\ежеднивник1.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\obj\Debug\net6.0\ежеднивник1.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\obj\Debug\net6.0\refint\ежеднивник1.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\obj\Debug\net6.0\ежеднивник1.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\obj\Debug\net6.0\ежеднивник1.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ежеднивник1\ежеднивник1\obj\Debug\net6.0\ref\ежеднивник1.dll
